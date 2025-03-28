@@ -1,1 +1,1 @@
-This DINO GAME.
+This is DINO GAME.
